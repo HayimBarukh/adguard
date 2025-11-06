@@ -1,3 +1,6 @@
+||slo.ru^$document,important
+||newsru.co.il^$document,important
+
 ||slo.ru^
 ||newwssru.il^
 ||newsru.co.il^
