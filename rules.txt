@@ -1,4 +1,6 @@
-||facebook.com^$document
+||ice.co.il^$document
+||sem40.ru^$document
+||israelnationalnews.com^$document
 ||newsru.co.il^$document
 ||newwssru.il^$document
 ||newsru.co.il^$document
@@ -9,6 +11,7 @@
 ||israelinfo.co.il^$document
 ||9tv.co.il^$document
 ||isra.com^$document
+||facebook.com^$document
 ||parpar.co.il^$document
 ||orbita.co.il^$document
 ||zahav.ru^$document
