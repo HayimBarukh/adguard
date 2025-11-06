@@ -1,3 +1,4 @@
+||facebook.com^$document
 ||newsru.co.il^$document
 ||newwssru.il^$document
 ||newsru.co.il^$document
