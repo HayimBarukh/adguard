@@ -1,5 +1,5 @@
 ||slo.ru^$document,important
-||newsru.co.il^$document,important
+||newsru.co.il^$document
 
 ||slo.ru^
 ||newwssru.il^
