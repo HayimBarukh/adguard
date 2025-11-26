@@ -22,6 +22,7 @@
 ||timesofisrael.com^$document
 ||russian.rt.com^$document
 ||ria.ru^$document
+||*.ua^$document
 ||rg.ru^$document
 ||svoboda.org^$document
 ||dw.com^$document
