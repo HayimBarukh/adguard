@@ -23,6 +23,8 @@
 ||russian.rt.com^$document
 ||ria.ru^$document
 ||*.ua^$document
+||*dnepr*^$document
+||*dnipro*^$document
 ||rg.ru^$document
 ||svoboda.org^$document
 ||dw.com^$document
